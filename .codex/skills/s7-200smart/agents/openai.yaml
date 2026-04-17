@@ -1,0 +1,7 @@
+interface:
+  display_name: "S7-200 SMART"
+  short_description: "Import AWL into Micro/WIN SMART V3 and verify compile results."
+  default_prompt: "Use $s7-200smart to import the bundled four-bag pulse dust collector case into STEP 7-Micro/WIN SMART V3 and verify zero compile errors."
+
+policy:
+  allow_implicit_invocation: true
